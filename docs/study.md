@@ -196,4 +196,3 @@ interface ValidateReader {
 - [x] 60 소감문 작성하기
 - [ ] 30 행동강령 숙지하기
 
-- 약 4시간 소요 예정
